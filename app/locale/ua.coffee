@@ -54,7 +54,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #    for_leaders_subblurb3: "Whether you want to build a Middle School coding elective, a CTE pathway, or an AP Computer Science Principles class, CodeCombat is tailored to suit your needs."
 #    for_leaders_subtitle4: "Real-World Skills"
 #    for_leaders_subblurb4: "Students build grit and develop a growth mindset through coding challenges that prepare them for the 500K+ open computing jobs."
-#    for_teachers_title: "For Teachers"
+    for_teachers_title: "Для вчителів"
 #    for_teachers_blurb: "Tools to Unlock Student Potential"
 #    for_teachers_subtitle1: "Project-Based Learning"
 #    for_teachers_subblurb1: "Promote creativity, problem-solving, and confidence in project-based courses where students develop their own games and webpages."
@@ -69,7 +69,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #    global_title: "Join Our Global Community of Learners and Educators"
 #    global_subtitle1: "Learners"
 #    global_subtitle2: "Lines of Code"
-#    global_subtitle3: "Teachers"
+    global_subtitle3: "Вчителі"
 #    global_subtitle4: "Countries"
 #    go_to_my_classes: "Go to my classes"
 #    go_to_my_courses: "Go to my courses"
@@ -150,7 +150,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     go_to_courses: "Перейти до моїх курсів"
     want_coco: "Хочете CodeCombat у вашій школі?"
 #    educator: "Educator"
-#    student: "Student"
+    student: "Учень"
 
   nav:
 #    educators: "Educators"
@@ -174,7 +174,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     twitter_follow: "Стежити"
     my_classrooms: "Мої класи"
     my_courses: "Мої курси"
-#    my_teachers: "My Teachers"
+    my_teachers: "Мої вчителі"
     careers: "Робота"
     facebook: "Facebook"
     twitter: "Twitter"
@@ -193,12 +193,12 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     help_suff: "і ми будемо на зв'язку!"
     resource_hub: "Ресурси"
 #    apcsp: "AP CS Principles"
-#    parent: "Parents"
+    parent: "Батьки"
 
   modal:
     close: "Закрити"
     okay: "Добре"
-#    cancel: "Cancel"
+    cancel: "Скасувати"
 
   not_found:
     page_not_found: "Сторінку не знайдено"
@@ -347,7 +347,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     creating: "Створення обліківки..."
     sign_up: "Реєстрація"
     log_in: "вхід з паролем"
-#    login: "Login"
+    login: "Вхід"
     required: "Ця дія потребує входу."
     login_switch: "Вже маєте обліківку?"
     optional: "необов’язково"
@@ -480,7 +480,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     rejected: "Відхилено"
     withdrawn: "Відкликано"
     accept: "Прийняти"
-#    accept_and_save: "Accept&Save"
+    accept_and_save: "Прийняти й зберегти"
     reject: "Відхилити"
     withdraw: "Відкликати"
     submitter: "Відправник"
@@ -600,8 +600,8 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     reload_title: "Перезавантажити весь код?"
     reload_really: "Ви впевнені, що хочете перезавантажити цей рівень і почати спочатку?"
     reload_confirm: "Перезавантажити все"
-#    restart_really: "Are you sure you want to restart the level? You'll loose all the code you've written."
-#    restart_confirm: "Yes, Restart"
+    restart_really: "Ви впевнені, що хочете перезавантажити рівень? Ви втратите весь код, що написали."
+    restart_confirm: "Так, перезавантажити"
     test_level: "Протестувати рівень"
     victory: "Перемога"
     victory_title_prefix: ""
@@ -632,7 +632,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     tome_available_spells: "Доступні заклинання"
     tome_your_skills: "Ваші вміння"
     hints: "НАТЯКИ (Підказки)"
-#    videos: "Videos"
+    videos: "Відео"
     hints_title: "Натяк (підказка) {{number}}"
     code_saved: "Код збережено"
     skip_tutorial: "Пропустити (esc)"
@@ -732,15 +732,15 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #    use_at_least_one_concept: "Use at least one concept: "
 #    command_bank: "Command Bank"
 #    learning_goals: "Learning Goals"
-#    start: "Start"
+    start: "Почати"
 #    vega_character: "Vega Character"
-#    click_to_continue: "Click to Continue"
+    click_to_continue: "Клацніть, щоб продовжити"
 
   apis:
     methods: "Методи"
     events: "Події"
 #    handlers: "Handlers"
-#    properties: "Properties"
+    properties: "Властивості"
 #    snippets: "Snippets"
     spawnable: "Породжуваний"
     html: "HTML"
@@ -762,7 +762,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #    educate_1: "Now, keep learning about coding and cloud computing with AWS Educate, an exciting, free program from Amazon for both students and teachers. With AWS Educate, you can earn cool badges as you learn about the basics of the cloud and cutting-edge technologies such as gaming, virtual reality, and Alexa."
 #    educate_2: "Learn more and sign up here"
 #    future_eng_1: "You can also try to build your own school facts skill for Alexa"
-#    future_eng_2: "here"
+    future_eng_2: "тут"
 #    future_eng_3: "(device is not required). This Alexa activity is brought to you by the"
 #    future_eng_4: "Amazon Future Engineer"
 #    future_eng_5: "program which creates learning and work opportunities for all K-12 students in the United States who wish to pursue computer science."
@@ -848,11 +848,11 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     purchased: "Куплено"
 
 #  subscribe_for_gems:
-#    prompt_title: "Not Enough Gems!"
+    prompt_title: "Не достатньо самоцвітів!"
 #    prompt_body: "Subscribe to Premium to get gems and access to even more levels!"
 
   earn_gems:
-    prompt_title: "Недостатньо самосцвітів"
+    prompt_title: "Недостатньо самоцвітів"
     prompt_body: "Продовжуйте грати, щоб заробити більше!"
 
   subscribe:
@@ -932,7 +932,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #    coming_soon: "Coming soon"
 #    ritic: "Ritic the Cold" # Ritic Announcement Modal
 #    ritic_description: "Ritic the Cold. Trapped in Kelvintaph Glacier for countless ages, finally free and ready to tend to the ogres that imprisoned him."
-#    ice_block: "A block of ice"
+    ice_block: "Блок льоду"
 #    ice_description: "There appears to be something trapped inside..."
 #    blink_name: "Blink"
 #    blink_description: "Ritic disappears and reappears in a blink of an eye, leaving nothing but a shadow."
@@ -1007,10 +1007,10 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 
 #  char_customization_modal:
 #    heading: "Customize Your Hero"
-#    body: "Body"
-#    name_label: "Hero's Name"
-#    hair_label: "Hair Color"
-#    skin_label: "Skin Color"
+    body: "Тіло"
+    name_label: "Ім'я героя"
+    hair_label: "Колір волосся"
+    skin_label: "Колір шкіри"
 
   skill_docs:
     function: "функція" # skill types
@@ -1226,7 +1226,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #    district_name: "District Name"
     district_na: "Введіть N/A якщо не застосовується"
     organization_label: "Школа"
-#    school_name: "School Name"
+    school_name: "Назва школи"
     city: "Місто"
     state: "Штат" # {change}
     country: "Країна"
@@ -1244,12 +1244,12 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #    referrer_default: "Select One"
 #    referrer_conference: "Conference (e.g. ISTE)"
 #    referrer_hoc: "Code.org/Hour of Code"
-#    referrer_teacher: "A teacher"
-#    referrer_admin: "An administrator"
-#    referrer_student: "A student"
+    referrer_teacher: "Вчитель"
+    referrer_admin: "Адміністратор"
+    referrer_student: "Учень"
 #    referrer_pd: "Professional trainings/workshops"
 #    referrer_web: "Google"
-#    referrer_other: "Other"
+    referrer_other: "Інше"
     anything_else: "Ще щось, про що нам варто знати?" # {change}
     thanks_header: "Запит отримано!"
     thanks_sub_header: "Дякуємо за ваш інтерес до CodeCombat для вашої школи."
@@ -1355,8 +1355,8 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     beautify: "Зроби код красивішим, стандартизуючи його форматування."
     maximize_editor: "Згортання/розширення редактора коду."
 
-#  cinematic:
-#    click_anywhere_continue: "click anywhere to continue"
+  cinematic:
+    click_anywhere_continue: "Натисніть будь-куди, щоб продовжити"
 
   community:
     main_title: "Спільноти CodeCombat"
@@ -1442,7 +1442,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
   courses:
     create_new_class: "Створити новий клас"
 #    hoc_blurb1: "Try the"
-#    hoc_blurb2: "Code, Play, Share"
+    hoc_blurb2: "Програмуй, грай, ділись"
 #    hoc_blurb3: "activity! Construct four different minigames to learn the basics of game development, then make your own!"
 #    solutions_require_licenses: "Level solutions are available for teachers who have licenses."
     unnamed_class: "Безіменний клас"
@@ -1611,10 +1611,10 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #    ranking_completed_leves: "Completed levels"
 #    challenge: "Challenge:"
 #    challenge_level: "Challenge Level:"
-#    status: "Status:"
+    status: "Статус:"
 #    assessments: "Assessments"
 #    challenges: "Challenges"
-#    level_name: "Level Name:"
+    level_name: "Назва рівня:"
 #    keep_trying: "Keep Trying"
 #    start_challenge: "Start Challenge"
 #    locked: "Locked"
@@ -1793,7 +1793,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     status_enrolled: "Термін дії закінчиться {{date}}"
     select_all: "Обрати все"
     project: "Проект"
-#    project_gallery: "Project Gallery"
+    project_gallery: "Галерея проектів"
 #    view_project: "View Project"
 #    unpublished: "(unpublished)"
     view_arena_ladder: "Переглянути рейтинг арени"
@@ -1922,17 +1922,17 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     revoking: "Відкликаємо..."
 #    unused_licenses: "You have unused Licenses that allow you to assign students paid courses when they're ready to learn more!"
 #    remember_new_courses: "Remember to assign new courses!"
-#    more_info: "More Info"
+    more_info: "Більше інформації"
 #    how_to_assign_courses: "How to Assign Courses"
-#    select_students: "Select Students"
+    select_students: "Виберіть учнів"
 #    select_instructions: "Click the checkbox next to each student you want to assign courses to."
 #    choose_course: "Choose Course"
 #    choose_instructions: "Select the course from the dropdown menu you’d like to assign, then click “Assign to Selected Students.”"
 #    push_projects: "We recommend assigning Web Development 1 or Game Development 1 after students have finished Introduction to Computer Science! See our {{resource_hub}} for more details on those courses."
 #    teacher_quest: "Teacher's Quest for Success"
 #    quests_complete: "Quests Complete"
-#    teacher_quest_create_classroom: "Create Classroom"
-#    teacher_quest_add_students: "Add Students"
+    teacher_quest_create_classroom: "Створити клас"
+    teacher_quest_add_students: "Додати учнів"
 #    teacher_quest_teach_methods: "Help your students learn how to `call methods`."
 #    teacher_quest_teach_methods_step1: "Get 75% of at least one class through the first level, __Dungeons of Kithgard__"
 #    teacher_quest_teach_methods_step2: "Print out the [Student Quick Start Guide](http://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) in the Resource Hub."
@@ -1970,7 +1970,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #    end_course: "End of Course"
 #    none: "None detected yet"
 #    explain_open_ended: "Note: Students are encouraged to solve this level creatively — one possible solution is provided below."
-#    level_label: "Level:"
+    level_label: "Рівень:"
 #    time_played_label: "Time Played:"
 #    back_to_resource_hub: "Back to Resource Hub"
 #    back_to_course_guides: "Back to Course Guides"
@@ -1984,7 +1984,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #    share_licenses: "Share Licenses"
 #    shared_by: "Shared By:"
 #    add_teacher_label: "Enter exact teacher email:"
-#    add_teacher_button: "Add Teacher"
+    add_teacher_button: "Додати вчителя"
 #    subheader: "You can make your licenses available to other teachers in your organization. Each license can only be used for one student at a time."
 #    teacher_not_found: "Teacher not found. Please make sure this teacher has already created a Teacher Account."
 #    teacher_not_valid: "This is not a valid Teacher Account. Only teacher accounts can share licenses."
@@ -1994,7 +1994,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #    you: "(you)"
 #    one_license_used: "(1 license used)"
 #    licenses_used: "(__licensesUsed__ licenses used)"
-#    more_info: "More info"
+    more_info: "Більше інформації"
 
   sharing:
     game: "Гра"
@@ -2004,7 +2004,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     share_game: "Поділитись цією грою"
     share_web: "Поділитись цією веб-сторінкою"
     victory_share_prefix: "Поділитись цим посиланням, щоб запросити ваших друзів та рідних"
-#    victory_share_prefix_short: "Invite people to"
+    victory_share_prefix_short: "Запросити людей до"
     victory_share_game: "грати ваш рівень"
     victory_share_web: "переглянути вашу веб-сторінку"
     victory_share_suffix: "."
@@ -2326,7 +2326,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     left_xp_postfix: ""
 
   account:
-#    title: "Account"
+    title: "Обліковий запис"
 #    settings_title: "Account Settings"
 #    unsubscribe_title: "Unsubscribe"
 #    payments_title: "Payments"
@@ -2399,12 +2399,12 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     you_can2: "купити передплачений код"
     you_can3: "який може бути застосовано до вашої обліківки або переданий іншим."
 
-#  ozaria_chrome:
-#    sound_off: "Sound Off"
-#    sound_on: "Sound On"
-#    back_to_map: "Back to Map"
-#    level_options: "Level Options"
-#    restart_level: "Restart Level"
+  ozaria_chrome:
+    sound_off: "Вимкнути звук"
+    sound_on: "Увімкнути звук"
+    back_to_map: "Повернутись до карти"
+    level_options: "Налаштування рівня"
+    restart_level: "Перезавантажити рівень"
 
   loading_error:
     could_not_load: "Помилка завантаження з сервера" # {change}
@@ -2478,7 +2478,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     continue_statements: "Оператори продовження"
     dom_events: "Події DOM"
     dynamic_styling: "Динамічні стилі"
-#    events: "Events"
+    events: "Події"
     event_concurrency: "Конкурентність подій"
     event_data: "Дані подій"
     event_handlers: "Обробники подій"
@@ -2568,12 +2568,12 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #  anonymous_teacher:
 #    notify_teacher: "Notify Teacher"
 #    create_teacher_account: "Create free teacher account"
-#    enter_student_name: "Your name:"
+    enter_student_name: "Ваше ім'я:"
 #    enter_teacher_email: "Your teacher's email:"
 #    teacher_email_placeholder: "teacher.email@example.com"
 #    student_name_placeholder: "type your name here"
-#    teachers_section: "Teachers:"
-#    students_section: "Students:"
+    teachers_section: "Вчителі:"
+    students_section: "Учні:"
 #    teacher_notified: "We've notified your teacher that you want to play more CodeCombat in your classroom!"
 
   delta:
@@ -2638,7 +2638,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     rights_clarification: "Для уточнення, будь-що що є доступним у редакторі рівнів, для створення нових рівнів, належить CC, тоді як зміст, створений редактором рівнів або завантажений у ході створення рівнів, не належить."
     nutshell_title: "Коротко"
     nutshell_description: "Будь-які ресурси, котрі ми надаємо в редакторі рівнів, є безкоштовними для використання за Вашим бажанням для створення рівнів. Але ми залишаємо за собою право обмежувати розповсюдження самих рівнів (котрі були створені на codecombat.com), тому в майбутньому за них може стягуватися плата, якщо в кінцевому результаті таке станеться."
-#    nutshell_see_also: "See also:"
+    nutshell_see_also: "Дивитись також:"
     canonical: "Англомовна версія цього документа є остаточною та канонічною версією. Якщо є будь-які невідповідності в перекладі, англійська версія документа є пріоритетною."
     third_party_title: "Сервіси сторонніх розробників"
     third_party_description: "CodeCombat використовує наступні сервіси сторонніх розробників (серед інших):"
@@ -2689,9 +2689,9 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #    victory_sign_up_poke: "Create a free account to save your code & be entered for a chance to win prizes!"
 #    victory_sign_up: "Sign up & be entered to <strong>win $2,500</strong>"
 
-#  server_error:
-#    email_taken: "Email already taken"
-#    username_taken: "Username already taken"
+  server_error:
+    email_taken: "E-mail вже зайнято"
+    username_taken: "Імя користувача вже зайнято"
 
 #  esper:
 #    line_no: "Line $1: "
@@ -2700,7 +2700,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #    argument_error: "ArgumentError: "
 #    type_error: "TypeError: "
 #    syntax_error: "SyntaxError: "
-#    error: "Error: "
+    error: "Помилка: "
 #    x_not_a_function: "$1 is not a function"
 #    x_not_defined: "$1 is not defined"
 #    spelling_issues: "Look out for spelling issues: did you mean `$1` instead of `$2`?"
@@ -2865,7 +2865,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #    name: "Your Name"
 #    parent_email: "Your Email"
 #    teacher_email: "Teacher's Email"
-#    message: "Message"
+    message: "Повідомлення"
 #    custom_message: "I just found CodeCombat and thought it'd be a great program for your classroom! It's a computer science learning platform with standards-aligned curriculum.\n\nComputer literacy is so important and I think this would be a great way to get students engaged in learning to code."
 #    send: "Send Email"
 
@@ -2902,7 +2902,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #    welcome: "Welcome to CodeCombat's Hour of Code 2018!"
 #    educator: "I'm an educator"
 #    show_resources: "Show me teacher resources!"
-#    student: "I'm a student"
+    student: "Я учень"
 #    ready_to_code: "I'm ready to code!"
 
 #  hoc_2018_completion:
@@ -2923,7 +2923,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 #    total_students: "total students"
 #    active_students: "active students"
 #    projects_created: "projects created"
-#    other: "Other"
+    other: "Інше"
 #    notice: "The following school administrators have view-only access to your classroom data:"
 #    add_additional_teacher: "Need to add an additional teacher? Contact your CodeCombat Account Manager or email support@codecombat.com. "
 #    license_stat_description: "Licenses available accounts for the total number of licenses available to the teacher, including Shared Licenses."
